@@ -1,4 +1,4 @@
-#By Lily and Rebecca for CMPSC 463
+#By Tanneh and Rebecca for CMPSC 463
 #Project 2: Class Scheduling
 #Look into 30 CMPSC/IST courses, schedule them into 5 classrooms from 7am to 6pm
 # Greedy algorithm
